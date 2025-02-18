@@ -1,7 +1,5 @@
-install-jeyll:
-  gem install jekyll
-
 install:
+  gem install jekyll
   bundle
 
 serve:
